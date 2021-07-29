@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+此脚本来自 https://github.com/jerry3747/taobao_seckill
 # TaoBaoQuicklyGrab
 淘宝快速抢购脚本
 =======
